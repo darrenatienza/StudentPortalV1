@@ -1,0 +1,10 @@
+.home{
+    flex:4;
+}
+.chartTitle{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.homeWidgets{
+    display: flex;
+}
